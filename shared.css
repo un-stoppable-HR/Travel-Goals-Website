@@ -1,31 +1,31 @@
 body {
-  font-family: "Qicksand", sans-serif;
+  font-family: "Quicksand", sans-serif;
   margin: 0;
 }
 
 header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 15px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 60px;
 }
 
 header ul {
-    display: flex;
+  display: flex;
 }
 
 header li {
-    margin-left: 20px;
+  margin-left: 20px;
 }
 
 header a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 #page-logo a {
